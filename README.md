@@ -20,10 +20,6 @@ Here are some ideas to get you started:
     <summary><h1 style="display: inline-block">Hi there👋, I'm Liseth</h1></summary>
   </ul>
 </div>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <br>
 <div display="flex" justifyContent="center">
   <ul>
